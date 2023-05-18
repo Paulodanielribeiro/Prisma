@@ -1,0 +1,20 @@
+{
+  "name": "exemplo02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.14.0",
+    "@types/node": "^18.16.3",
+    "mongodb": "^5.3.0",
+    "remove": "^0.1.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "prisma": "^4.14.0"
+  }
+}
